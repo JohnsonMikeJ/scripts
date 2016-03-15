@@ -50,8 +50,8 @@ GREP=`which grep`
 PHP=`which php`	
 
 # full path to your jshint executable if not in $PATH
-JSHINT=`which jshint`	
-
+#JSHINT=`which jshint`	
+JSHINT=
 
 
 
